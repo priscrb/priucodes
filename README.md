@@ -1,4 +1,4 @@
-## Hey There! I'm Priscilla. 👋🏼
+## Hey, there! I'm Priscilla. 👋🏼
 
 ```js
 console.log("Nice to see you around here!");
