@@ -4,7 +4,7 @@
 console.log("Nice to see you around here!");
 ```
 
-[![Blog Badge](https://img.shields.io/badge/web-priucodes.com-black)](https://priucodes.com/blog)
+[![Blog Badge](https://img.shields.io/badge/web-priucodes.com-black)](https://priucodes.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prscribeiro/)](https://www.linkedin.com/in/prscribeiro/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/priucodes)](https://twitter.com/priucodes)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/priucodes)](https://t.me/priucodes)
